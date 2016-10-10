@@ -1,7 +1,7 @@
 # CodeCollaboratif
 
 Routine de collision
-   - Donnees initials
+   - Donnees initiales
    - transport de particules
    - Calcul de tau
    - Collision en énergie
